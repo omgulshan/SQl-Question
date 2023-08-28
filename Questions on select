@@ -1,0 +1,14 @@
+Q-1>
+Town Selection
+Given a table Towns, query for all the attributes in the table.
+
+The description of the table Towns is given as follows:
+
+Towns Image
+
+NOTE : All the fields should have the same Name and should be in the same order.
+
+Queries:
+SELECT * from Towns;
+
+
